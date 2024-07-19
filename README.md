@@ -9,29 +9,20 @@
 
 Para praticar e entender os conceitos fundamentais de CRUD (Create, Read, Update, Delete), criamos três bancos de dados distintos, cada um contendo apenas uma tabela. Essa abordagem permite explorar e aplicar operações básicas de manipulação de dados em diferentes contextos. Abaixo está a descrição detalhada de cada banco de dados e sua tabela correspondente:
 
-<h1>1. Banco de Dados: RH - Recursos Humano</h1>
-<h2>Tabela: db_colaboradores</h2>
+<h1>02 - Atividade de banco de dados relacional Mysql</h1>
+<h2>Bancos de Dados criados nessa pasta: </h2>
 
-* <strong>id:</strong> Identificador único do colaborador.
-* <strong>nome:</strong> Nome do colaborador.
-* <strong>cargo:</strong> Cargo do colaborador.
-* <strong>salario:</strong> Salario do colaborador.
-* <strong>data_inicio:</strong> Data que o colaborador foi registrado na empresa.
+* <strong>DB_E_COMMERCE</strong> 
+* <strong>DB_ESCOLA</strong>
+* <strong>DB_RH</strong> 
+
   
-<h1>2. Banco de Dados: E-Commerce</h1>
-<h2>Tabela: db_produtos</h2>
+<h1>03 - Atividade de banco de dados relacional Mysql</h1>
+<h2>Bancos de Dados criados nessa pasta: </h2>
 
-* <strong>id:</strong> Identificador único do colaborador.
-* <strong>produto:</strong> Nome do produto.
-* <strong>quantidade:</strong> Quantidade do produto em estoque.
-* <strong>preco:</strong> Preço do produto.
-* <strong>categoria:</strong> Categoria do produto.
-  
-<h1>3. Banco de Dados: Escola</h1>
-<h2>Tabela: tb_estudante</h2>
-
-* <strong>id:</strong> Identificador único do aluno.
-* <strong>nome:</strong> Nome do aluno.
-* <strong>ano_de_ensino:</strong> Ano de ensino do aluno.
-* <strong>nota1:</strong> Primeira nota do aluno.
-* <strong>nota2</strong> Segunda nota do aluno.
+* <strong>DB_GENERATION_GAME_ONLINE</strong> 
+* <strong>DB_PIZZARIA_LEGAL</strong>
+* <strong>DB_FARMACIA_BEM_ESTAR</strong>
+* <strong>DB_CIDADE_DOS_VEGETAIS</strong>
+* <strong>DB_CONSTRUINDO_VIDAS</strong>
+* <strong>DB_CURSO_DA_MINHA_VIDA</strong>
